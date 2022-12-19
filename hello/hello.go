@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-
 	"my_test_job/greetings/greetings"
 )
 
